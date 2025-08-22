@@ -7,7 +7,7 @@
 ## Funzionamento
 
 
-![vettorializzaziome.png](/vettorializzaziome.png)
+![vettorializzazione.png](/vettorializzazione.png)
 
 ![what-are-embeddings.svg](/what-are-embeddings.svg)
 
