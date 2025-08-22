@@ -18,7 +18,7 @@ Ogni puntino nello spazio vettoriale è disposto in modo "semantico"
 
 ![rag-plot.png](/rag-plot.png)
 
-![2025-02-19_17-55.png](/ollama_rag/2025-02-19_17-55.png)
+![2025-02-19_17-55.png](/2025-02-19_17-55.png)
 
 ## Embedding Python
 
