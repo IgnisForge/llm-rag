@@ -48,4 +48,4 @@ Troviamo il punto più pertinente
 
 ![download.png](/cosine-similarity-sample.png)
 
-![2025-02-19_22-43.png](/ollama_rag/2025-02-19_22-43.png)
+![2025-02-19_22-43.png](/2025-02-19_22-43.png)
